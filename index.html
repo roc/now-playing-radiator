@@ -19,6 +19,7 @@
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
     <script src="js/lastfm.js"></script>
     <script src="js/now-playing.js"></script>
+    <script src="js/jquery.sizeUp.js"></script>
     
     <script>
     
@@ -57,7 +58,7 @@
 
 <body>
     
-    <div id="page" class="inactive">
+    <div id="page">
         
         <header>
             Now Playing
@@ -66,13 +67,15 @@
         <article>
             <h1>
                 <span id="artist">Artist</span>
-                <span class="separator">&mdash;</span> 
                 <span id="track">Track</span>
             </h1>
         </article>
+        <aside></aside>
 
         <footer>
             By <a href="http://twitter.com/dsingleton">@dsingleton</a> on <a href="https://github.com/dsingleton/now-playing-radiator">Github</a>
+            <br />
+            Changed whilst not entirely sober by <a href="http://twitter.com/_ralph">@_ralph</a> on <a href="https://github.com/roc/now-playing-radiator">Github</a>
         </footer>
         
     </div>
