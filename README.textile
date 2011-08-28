@@ -7,12 +7,16 @@ h2. What:
 A  "second screen" / ""information radiator" / "glancable" /  for a Last.fm users now-playing track.
 
 * No dependencies - Only uses client-side Javascript (no server-side requirement). You can run this anywhere with a browser.
-* ~~Device agnostic - Works well on desktops, laptops, phones, tablets, even the kindle.~~
+* ~Device agnostic - Works well on desktops, laptops, phones, tablets, even the kindle.~
 * Kind of device agnostic
 
 h2. DS's excellent Demo
 
 Try it out: "http://dsingleton.github.com/now-playing-radiator":http://dsingleton.github.com/now-playing-radiator
+
+h2. How mine looks :-s
+
+[![example](/image/example-view.png)]
 
 h2. Todo
 
