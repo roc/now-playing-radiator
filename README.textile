@@ -16,7 +16,7 @@ Try it out: "http://dsingleton.github.com/now-playing-radiator":http://dsingleto
 
 h2. How mine looks :-s
 
-!https://github.com/roc/now-playing-radiator/raw/master/images/example-view.png(Example View)! 
+!https://github.com/roc/now-playing-radiator/raw/master/images/example-view.png(Example View)!:http://roc.github.com/now-playing-radiator/
 
 h2. Todo
 
